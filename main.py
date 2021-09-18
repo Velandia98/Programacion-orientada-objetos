@@ -7,4 +7,5 @@ estudiante.autenticar()
 estudiante.edad
 
 titulo 
+Print "Clase constructor"
 print
