@@ -5,6 +5,6 @@ estudiante = Persona("Isabel")
 estudiante = Persona ("Alejandro")
 estudiante.autenticar()
 estudiante.edad
-texto = "ejemeplo"
-texto.replace("a", "e")
+
+titulo 
 print
